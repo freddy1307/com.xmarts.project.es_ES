@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="es_ES" table="AD_WINDOW" version="">
+  <row id="233AED4D43F948B3ABC362CF0D94EB76" trl="Y">
+    <value column="Name" isTrl="Y" original="Expenses">Gastos</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="5A0D37E57A9843D8AF8D848CEC461738" trl="Y">
+    <value column="Name" isTrl="Y" original="Projects">Proyectos</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="7B04874C51CF49439A3DE1C8F222C86B" trl="Y">
+    <value column="Name" isTrl="Y" original="Configuration Project">Configuración del Proyecto</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+</compiereTrl>

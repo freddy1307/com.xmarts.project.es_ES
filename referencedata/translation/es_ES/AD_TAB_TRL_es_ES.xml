@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="es_ES" table="AD_TAB" version="">
+  <row id="08830FC4899D4FABAA6EC73BD170604B" trl="Y">
+    <value column="Name" isTrl="Y" original="Phase">Fase</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="Y" original="Define the invidual phases of this project.">Define las fases individuales de este proyecto.</value>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="Y" original="Define the invidual phases of this project.">Define las fases individuales de este proyecto.</value>
+  </row>
+  <row id="0C099A11C81C4667A1407DAA889CDA11" trl="N">
+    <value column="Name" isTrl="N" original="Projects">Projects</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="48D82CA22FE54E29AF4026B75BAEAF5E" trl="Y">
+    <value column="Name" isTrl="Y" original="Project Task">Tarea</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="Y" original="Define the individual tasks needed to complete this phase of the project.">Define las tareas individuales necesarias para completar esta fase del proyecto.</value>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="Y" original="Define the individual tasks needed to complete this phase of the project.">Define las tareas individuales necesarias para completar esta fase del proyecto.</value>
+  </row>
+  <row id="960877429C4348A8886CA662B8C22851" trl="Y">
+    <value column="Name" isTrl="Y" original="Budget">Presupuesto</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="BB64C13500464872A66BDD625842EA3F" trl="Y">
+    <value column="Name" isTrl="Y" original="Accounting">Contabilidad</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="Y" original="Define Project Accounting">Define los parámetros de contabilidad</value>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="Y" original="Define Project Accounting">Define los parámetros de contabilidad</value>
+  </row>
+  <row id="C63E7942C0174941AC824C07AE599FF0" trl="Y">
+    <value column="Name" isTrl="Y" original="Lines">Líneas</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="Y" original="Add time and regular expense lines to your sheet.  Each expense is added to an individual line and may or may not be invoiced to your customers.">Añade líneas de horarios y gastos regulares a su hoja. Cada gasto se añade a una línea individual y puede facturarse o no a los clientes.</value>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="Y" original="Add time and regular expense lines to your sheet.  Each expense is added to an individual line and may or may not be invoiced to your customers.">Añade líneas de horarios y gastos regulares a su hoja. Cada gasto se añade a una línea individual y puede facturarse o no a los clientes.</value>
+  </row>
+  <row id="D53B7420A72043F8874DAC688C9D4C50" trl="Y">
+    <value column="Name" isTrl="Y" original="Repayment Schedule">Calendario de Pagos</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="E9AFA6BEA6AD45ED8A4CD18C601DD3B8" trl="Y">
+    <value column="Name" isTrl="Y" original="Project Type">Tipo de proyecto</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="Y" original="Define a project type.">Define un tipo de proyecto.</value>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="Y" original="Define a project type.">Define un tipo de proyecto.</value>
+  </row>
+  <row id="EA94C452BDB240E78CA2BA6EC736302D" trl="Y">
+    <value column="Name" isTrl="Y" original="Standard Task">Tarea estándar</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="Y" original="Define tasks to be completed during each phase.  Each task is added by creating a line.">Define las tareas que deben completarse durante cada fase. Cada tarea se añade creando una línea.</value>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="Y" original="Define tasks to be completed during each phase.  Each task is added by creating a line.">Define las tareas que deben completarse durante cada fase. Cada tarea se añade creando una línea.</value>
+  </row>
+  <row id="F1DA299145AE4BCF913DD80892FDD619" trl="Y">
+    <value column="Name" isTrl="Y" original="Standard Phase">Fase estándar</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="Y" original="Define phases and products required during each phase, to be included in this type.  Each phase is added by creating a line.">Define las fases y los productos requeridos por cada fase para este tipo de proyecto. Cada fase se añade creando una línea.</value>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="Y" original="Define phases and products required during each phase, to be included in this type.  Each phase is added by creating a line.">Define las fases y los productos requeridos por cada fase para este tipo de proyecto. Cada fase se añade creando una línea.</value>
+  </row>
+  <row id="F54B7C43EF524F7A93AFC1BB26662A32" trl="Y">
+    <value column="Name" isTrl="Y" original="Header">Cabecera</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="Y" original="Create and process an expense sheet.">Crea y procesa una hoja de gastos.</value>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="Y" original="Create and process an expense sheet.">Crea y procesa una hoja de gastos.</value>
+  </row>
+</compiereTrl>

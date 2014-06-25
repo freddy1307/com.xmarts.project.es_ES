@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="es_ES" table="AD_REFERENCE" version="">
+  <row id="18EA8DECAF5849CC980F8F72B484BDFE" trl="N">
+    <value column="Name" isTrl="N" original="Type budget">Type budget</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="45CAE2EC4E0D448FBBD6770AE9DEB12F" trl="N">
+    <value column="Name" isTrl="N" original="ADP Budget">ADP Budget</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="E371422D3C9A4A26AB7679B7C159C5A0" trl="N">
+    <value column="Name" isTrl="N" original="Tipo costo">Tipo costo</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+</compiereTrl>

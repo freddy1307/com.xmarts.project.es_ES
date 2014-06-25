@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="es_ES" table="AD_REF_LIST" version="">
+  <row id="15344C2341B64A3093D87E8D4D41ED83" trl="Y">
+    <value column="Name" isTrl="Y" original="Unpublished">Inédito</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="29D2F036B8AD4DF892BCBF95AC62C8FE" trl="Y">
+    <value column="Name" isTrl="Y" original="Planned Expenses">Gastos Planificados</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="4024A358F1EF445E868AD440199BE917" trl="Y">
+    <value column="Name" isTrl="Y" original="Payment In">Cobros</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="411D67E43DE74B2AAFA394F58990D305" trl="Y">
+    <value column="Name" isTrl="Y" original="Outsourced Cost">Coste de externalizacion</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="4F5885435D754F5781AD57E7F53BAFE7" trl="Y">
+    <value column="Name" isTrl="Y" original="Expert">Experto</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="79E3D4747E7245D3BED8CCD9037AF48A" trl="Y">
+    <value column="Name" isTrl="Y" original="Services Provided Cost">Coste de servicios prestados</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="82023554EE524CF897CF8FEE5FEE770B" trl="Y">
+    <value column="Name" isTrl="Y" original="Reinvoiced Expenses">Gastos refacturables</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="E868B1FDF3EF4686AB19C5E0A81A36C4" trl="Y">
+    <value column="Name" isTrl="Y" original="Paper published">Libro publicado</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="FEB2B69A4B42470E997907DA1E5683C4" trl="Y">
+    <value column="Name" isTrl="Y" original="Payment Out">Pago</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+</compiereTrl>

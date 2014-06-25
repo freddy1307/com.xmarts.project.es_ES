@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="es_ES" table="AD_MENU" version="">
+  <row id="1D469D5479D2462DA485C92DD0624D12" trl="Y">
+    <value column="Name" isTrl="Y" original="Expenses">Gastos</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="24F63AA8AD344FBAAE94A4FA9F142F4D" trl="Y">
+    <value column="Name" isTrl="Y" original="Projects">Proyectos</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="3CCC0ACA71794235BA0EA60BFD61CEB0" trl="Y">
+    <value column="Name" isTrl="Y" original="Transactions">Transacciones</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="4A97F60A2FCA4CFD9D4A9B0E86975A47" trl="Y">
+    <value column="Name" isTrl="Y" original="Type of project">Tipo de proyecto</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="57F995538E4D4C4286C195E41F21B901" trl="Y">
+    <value column="Name" isTrl="Y" original="Configurations">Configuraciones</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="B2679EAC61E742CD9AA56C28C20E4604" trl="Y">
+    <value column="Name" isTrl="Y" original="Advanced Project Management">Gestión de Proyectos avanzados</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+</compiereTrl>

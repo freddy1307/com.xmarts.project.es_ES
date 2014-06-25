@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="es_ES" table="AD_ELEMENT" version="">
+  <row id="03D068B008354F3194A6CECBEB42EF1F" trl="Y">
+    <value column="Name" isTrl="Y" original="Budget of currency">Moneda del presupuesto</value>
+    <value column="PrintName" isTrl="Y" original="Budget of currency">Moneda del presupuesto</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="080E4BEC8F47481BB195A7D6AC87C23F" trl="Y">
+    <value column="Name" isTrl="Y" original="Budget plan execution">Presupuesto en plan de ejecuccion</value>
+    <value column="PrintName" isTrl="Y" original="Budget Plan Execution">Presupuesto en plan de ejecuccion</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="0EF9F80CB2A84A70A84C4F4105647A6C" trl="Y">
+    <value column="Name" isTrl="Y" original="Budget">Presupuesto</value>
+    <value column="PrintName" isTrl="Y" original="Budget">Presupuesto</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="3FEEA2FE05AD4D93802E9243BD01C698" trl="Y">
+    <value column="Name" isTrl="Y" original="Date Change Order / Invoice">Fecha Cambio del pedido/factura</value>
+    <value column="PrintName" isTrl="Y" original="Date Change Order / Invoice">Fecha Cambio del pedido/factura</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="5413511166B54C8487C0695372E50A8D" trl="Y">
+    <value column="Name" isTrl="Y" original="Type of cost">Tipo de costo</value>
+    <value column="PrintName" isTrl="Y" original="Type of cost">Tipo de costo</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="5D141E9FED904350BE4AF7D38ADADA6B" trl="Y">
+    <value column="Name" isTrl="Y" original="Budget">Presupuesto</value>
+    <value column="PrintName" isTrl="Y" original="Budget">Presupuesto</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="64C4759C2C9F4575AA94F031DF94F9A1" trl="Y">
+    <value column="Name" isTrl="Y" original="Date Invoice/Order">Fecha Factura/Pedido</value>
+    <value column="PrintName" isTrl="Y" original="Date Invoice/Order">Fecha Factura/Pedido</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="9C522ABC009E4B159EC4E2093534DC04" trl="N">
+    <value column="Name" isTrl="Y" original="Budget Document">Presupuesto en documento</value>
+    <value column="PrintName" isTrl="Y" original="Budget Document">Presupuesto en documento</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="9D4E6578444545FDBC6A56CE7E7BF5EA" trl="Y">
+    <value column="Name" isTrl="Y" original="Remaining amount chatted">Monto restante conversó</value>
+    <value column="PrintName" isTrl="Y" original="Remaining amount chatted">Monto restante conversó</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="A08C79D83A4D411389259872CF014027" trl="Y">
+    <value column="Name" isTrl="Y" original="Budget execution">Presupuesto ejecutado</value>
+    <value column="PrintName" isTrl="Y" original="Budget execution">Presupuesto ejecutado</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="B3419868A6BE4FA2AC23855880DC2A10" trl="Y">
+    <value column="Name" isTrl="Y" original="Total amount chatted">Monto total conversó</value>
+    <value column="PrintName" isTrl="Y" original="Total amount chatted">Monto total conversó</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="B6F00505C254454FA57529183F07A150" trl="Y">
+    <value column="Name" isTrl="Y" original="Value of change">Valor del cambio</value>
+    <value column="PrintName" isTrl="Y" original="Value of change">Valor del cambio</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="DAD70018932046A391AF858D9DB57BDC" trl="Y">
+    <value column="Name" isTrl="Y" original="Payment Date Change">Fecha Cambio Pago</value>
+    <value column="PrintName" isTrl="Y" original="Payment Date Change">Fecha Cambio Pago</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="EAB24E7FB3D04F4592707B95CB12F9FE" trl="Y">
+    <value column="Name" isTrl="Y" original="Amount chatted">Monto conversó</value>
+    <value column="PrintName" isTrl="Y" original="Amount chatted">Monto conversó</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+</compiereTrl>

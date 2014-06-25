@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="es_ES" table="AD_FIELD" version="">
+  <row id="00B8D1CE395A4C628D2385EA3FD85D90" trl="N">
+    <value column="Name" isTrl="Y" original="Project Category">Categoría del proyecto</value>
+    <value column="Description" isTrl="Y" original="Project Category">Categoría del proyecto</value>
+    <value column="Help" isTrl="Y" original="The Project Category determines the behavior of the project. Default value is Multiphase Project.">La Categoría de Proyecto determina el comportamiento del proyecto. </value>
+  </row>
+  <row id="05116E96F8F44D3292FA6E8258F651DE" trl="N">
+    <value column="Name" isTrl="Y" original="Expense Amount">Importe del gasto</value>
+    <value column="Description" isTrl="Y" original="Amount for this expense">Importe del gasto</value>
+    <value column="Help" isTrl="Y" original="Expense amount in currency">Importe del gasto</value>
+  </row>
+  <row id="076AEE988DD144C3B0E8251881C81E2E" trl="N">
+    <value column="Name" isTrl="Y" original="Net Unit Price">Precio unitario</value>
+    <value column="Description" isTrl="Y" original="The price that will be paid for a specified item.">Precio que se paga por un ítem específico.</value>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="09BF2604D2ED44CE9380603B3840DD32" trl="N">
+    <value column="Name" isTrl="Y" original="Standard Quantity">Cantidad estándar</value>
+    <value column="Description" isTrl="Y" original="Standard Quantity">Cantidad estándar</value>
+    <value column="Help" isTrl="Y" original="Standard Quantity">Cantidad estándar</value>
+  </row>
+  <row id="1F75FD46B84E48E0A8FE3D2A81F96338" trl="N">
+    <value column="Name" isTrl="Y" original="Reinvoiced Expenses">Gastos refacturables</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="Y" original="Reinvoicing Expenses">Gastos refacturables</value>
+  </row>
+  <row id="216CA8FB2EE24D63BBD68B0F86403BB3" trl="N">
+    <value column="Name" isTrl="Y" original="Standard Task">Tarea estándar</value>
+    <value column="Description" isTrl="Y" original="Standard Project Type Task">Tipo de tarea estándar del proyecto</value>
+    <value column="Help" isTrl="Y" original="Standard Project Task in a Project Phase with standard effort">Tarea de proyecto estándar en una fase de proyecto con esfuerzo estándar.</value>
+  </row>
+  <row id="2323E22EFFCC4F729E5BA0137631A619" trl="N">
+    <value column="Name" isTrl="Y" original="Employee">Empleado</value>
+    <value column="Description" isTrl="Y" original="Identifies an Employee">Selecciona un empleado</value>
+    <value column="Help" isTrl="Y" original="A employee is a Business Partner checked as Employee">Combo de selección de empleados. Saldrán sólo aquellos terceros que estén marcados como empleados</value>
+  </row>
+  <row id="2746A8CEEB2E44438DB70DD906A2865A" trl="N">
+    <value column="Name" isTrl="Y" original="Ending Date">Fecha de final</value>
+    <value column="Description" isTrl="Y" original="A parameter stating when a specified request will end.">Parámetro que indica el momento en que finaliza una petición.</value>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="2A8B82BD30964C098559D9A1C9DB8AA3" trl="N">
+    <value column="Name" isTrl="Y" original="Service Revenue">Ingresos del servicio</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="Y" original="Revenue services">Ingresos del servicio</value>
+  </row>
+  <row id="31E290527C7441B28CFB5825DB891B34" trl="N">
+    <value column="Name" isTrl="Y" original="Ending Date">Fecha de final</value>
+    <value column="Description" isTrl="Y" original="A parameter stating when a specified request will end.">Parámetro que indica el momento en que finaliza una petición.</value>
+    <value column="Help" isTrl="Y" original="The End Date indicates the last date in this range.">Indica el último día de un rango de fechas.</value>
+  </row>
+  <row id="36056A253AB243E69C5B16AD6AE5D60D" trl="N">
+    <value column="Name" isTrl="Y" original="Total Service Cost">Costo del servicio</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="Y" original="Expected total cost of services provided. The real number will originate from all expense sheets (lines marked as Time Sheet) related to this project.">Costo del servicio</value>
+  </row>
+  <row id="4B0EC3D9F12745E18A7FE9601B127422" trl="N">
+    <value column="Name" isTrl="Y" original="Starting Date">Fecha de inicio</value>
+    <value column="Description" isTrl="Y" original="A parameter stating when a specified request will begin.">Parámetro que indica el momento en que finaliza una petición.</value>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="4D3A51D8590C404B9F5B42E9E1CADE56" trl="N">
+    <value column="Name" isTrl="Y" original="Invoice Quantity">Cantidad de factura</value>
+    <value column="Description" isTrl="Y" original="The total number of a product included in an invoice to a business partner.">Cantidad total de un producto que se incluye en la factura de un tercero.</value>
+    <value column="Help" isTrl="Y" original="The Quantity Invoiced">Indica la cantidad facturada en esta factura.</value>
+  </row>
+  <row id="4EE52623B037494797A1F2FFED79B59C" trl="N">
+    <value column="Name" isTrl="Y" original="Create Sales Order from Project Phase">Generar pedido de venta de la fase</value>
+    <value column="Description" isTrl="Y" original="Generate Order from Project Phase">Generar pedido sobre la fase de un proyecto</value>
+    <value column="Help" isTrl="Y" original="The Generate Order process will generate a new Order document based on the project phase or tasks. A price list and warehouse/service point must be defined on the project.  If a product is defined on phase level, the Phase information is used as the basis">The Generate Order process will generate a new Order document based on the project phase or tasks. A price list and warehouse/warehouse must be defined on the project.  If a product is defined on phase level, the Phase information is used as the basis for the Order (milestone invoicing) - otherwise the individual tasks.</value>
+  </row>
+  <row id="53211071DD1243FFA51B65009C841786" trl="N">
+    <value column="Name" isTrl="Y" original="Reinvoicing">Refacturable</value>
+    <value column="Description" isTrl="Y" original="Line reinvoiced">Refacturable</value>
+    <value column="Help" isTrl="Y" original="Indicator if the expense line is billable to customer.">Refacturable</value>
+  </row>
+  <row id="5F16B9A197BB40858144FEBE11DC3B02" trl="N">
+    <value column="Name" isTrl="Y" original="Invoice Amount">Importe de factura</value>
+    <value column="Description" isTrl="Y" original="The monetary sum that is invoiced for a specified item or service.">Suma que se factura por un ítem o servicio específico.</value>
+    <value column="Help" isTrl="Y" original="The amount invoiced">El importe de la factura.</value>
+  </row>
+  <row id="6E7E76AFE47F449CB7227D84EA9852DE" trl="N">
+    <value column="Name" isTrl="Y" original="Net Unit Price">Precio a facturar</value>
+    <value column="Description" isTrl="Y" original="The price at which something may be invoiced, shown in the currency of the invoiced business partner.">Precio al que puede facturarse algo, en la moneda en que se factura al tercero.</value>
+    <value column="Help" isTrl="Y" original="Unit Price in the currency of the business partner!  If it is 0, the standard price of the sales price list of the business partner (customer) is used.">Unidad de precio para el tercero. Si es 0, se utiliza el precio estándar de la tarifa de venta del cliente.</value>
+  </row>
+  <row id="6FC40AFCC519485BB131662065F25D3B" trl="N">
+    <value column="Name" isTrl="Y" original="Contract Quantity">Cantidad acordada</value>
+    <value column="Description" isTrl="Y" original="The maximum legal quantity for a project.">Importe máximo permitido de un proyecto.</value>
+    <value column="Help" isTrl="Y" original="The commitment amount is independent from the planned amount. You would use the planned amount for your realistic estimation, which might be higher or lower than the commitment amount.">La cantidad comprometida es independiente de la prevista. Se usa la cantidad prevista para la previsiones realistas, que pueden ser más elevadas o inferiores que las comprometidas.</value>
+  </row>
+  <row id="8A989B4E15C64477A17A21B7EC2502CD" trl="N">
+    <value column="Name" isTrl="Y" original="Planned Quantity">Cantidad prevista</value>
+    <value column="Description" isTrl="Y" original="The expected or provisional quantity to be involved for a transaction line.">Cantidad esperada o provisoria de una línea de transacción.</value>
+    <value column="Help" isTrl="Y" original="The Planned Quantity indicates the anticipated quantity for this project or project line">Indica la cantidad prevista a priori para este proyecto o línea.</value>
+  </row>
+  <row id="92A06442BB7A408183DF2AA01A9A624A" trl="N">
+    <value column="Name" isTrl="Y" original="Task Complete">Tarea completa</value>
+    <value column="Description" isTrl="Y" original="Task is complete">Indica que la tarea está completa.</value>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="9EF38B71848C426CB60BA9D7759CF3FF" trl="N">
+    <value column="Name" isTrl="Y" original="Report Date">Fecha del informe</value>
+    <value column="Description" isTrl="Y" original="Expense/Time Report Date">Informe de fechas de gastos y tiempo</value>
+    <value column="Help" isTrl="Y" original="Date of Expense/Time Report">Fecha del informe de gastos/tiempo.</value>
+  </row>
+  <row id="A17EEB138C954BBD8B098DDD78E52A52" trl="N">
+    <value column="Name" isTrl="Y" original="Price Ceiling">Límite superior</value>
+    <value column="Description" isTrl="Y" original="An indication that the highest possible contract amount and quantity are being charged (may depend on government regulations.">Indicación de que se está cobrando la suma o importe máximos permitidos por el contrato (puede depender de los requisitios del gobierno).</value>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="A19BE1659CD5409A989CEBD457E8E203" trl="N">
+    <value column="Name" isTrl="Y" original="Contract Amount">Cuantía del acuerdo</value>
+    <value column="Description" isTrl="Y" original="The maximum legal monetary price a project may be billed for.">Suma máxima facturable de un proyecto.</value>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="ABD01B28CEA44099AF8309D7FF2CE86A" trl="N">
+    <value column="Name" isTrl="Y" original="Current Phase">Fase actual</value>
+    <value column="Description" isTrl="Y" original="One section or part of a project which is potentially made up of one or many tasks.">Sección o parte de un proyecto que puede estar compuesta por una o más tareas.</value>
+    <value column="Help" isTrl="Y" original="Phase of the project with standard performance information with standard work">Fase del proyecto con información standard.</value>
+  </row>
+  <row id="ADB8749E244541F6B03E88C9674FB4EC" trl="N">
+    <value column="Name" isTrl="Y" original="Expense Date">Fecha del gasto</value>
+    <value column="Description" isTrl="Y" original="Date of expense">Fecha de gastos</value>
+    <value column="Help" isTrl="Y" original="Date of expense">Fecha de gastos</value>
+  </row>
+  <row id="CA59096A85C9416186AC6BDFE8C4871C" trl="N">
+    <value column="Name" isTrl="Y" original="Phase Complete">Fase completa</value>
+    <value column="Description" isTrl="Y" original="Phase is complete">Fase completa</value>
+    <value column="Help" isTrl="Y" original="Indicates that this phase is complete">Indica que la fase está completa.</value>
+  </row>
+  <row id="D759861BC99246B5A9F02BA8F435E285" trl="N">
+    <value column="Name" isTrl="Y" original="Standard Quantity">Cantidad estándar</value>
+    <value column="Description" isTrl="Y" original="Standard Quantity">Cantidad estándar</value>
+    <value column="Help" isTrl="Y" original="Standard Quantity">Cantidad estándar</value>
+  </row>
+  <row id="D9BCBA4CE3A444349B685A53A9EFEDE4" trl="N">
+    <value column="Name" isTrl="Y" original="Warehouse">Almacén</value>
+    <value column="Description" isTrl="Y" original="The location where products arrive to or are sent from.">Ubicación a la que se envían, o de donde proceden, los productos.</value>
+    <value column="Help" isTrl="Y" original="The Warehouse identifies a unique Warehouse where products are stored or Services are provided.">Identifica un único almacén donde los productos son almacenados o los servicios facilitados.</value>
+  </row>
+  <row id="F073E629ABB24B9EBE1951D23EED11F1" trl="N">
+    <value column="Name" isTrl="Y" original="Converted Amount">Importe convertido</value>
+    <value column="Description" isTrl="Y" original="The monetary sum at which one unit of measure is changed to another.">Suma en la que una unidad de medida cambia por otra.</value>
+    <value column="Help" isTrl="Y" original="The Converted Amount is the result of multiplying the Source Amount by the Conversion Rate for this target currency.">El Importe Cambiado es el resultado de multiplicar el importe origen por el factor de conversión para la divisa objetivo.</value>
+  </row>
+  <row id="FB544B6DBD5742399CB6BCD16A71F9DF" trl="N">
+    <value column="Name" isTrl="Y" original="Set Project Type">Establecer el tipo de proyecto</value>
+    <value column="Description" isTrl="Y" original="Set Project Type and for Service Projects copy Phases and Tasks of Project Type into Project">Establece el tipo de proyecto y para proyectos multifase copia fases y tareas del tipo de proyecto al proyecto</value>
+    <value column="Help" isTrl="Y" original="Set Project Type and for Service Projects copy Phases and Tasks of Project Type into Project">Establece el tipo de proyecto y para proyectos multifase copia fases y tareas del tipo de proyecto al proyecto</value>
+  </row>
+</compiereTrl>
